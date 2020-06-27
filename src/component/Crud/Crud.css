@@ -1,0 +1,33 @@
+.crud-container {
+    background: rgb(226, 226, 226);
+    padding: 1rem 1rem;
+}
+
+.crud-container h1 {
+    color: rgb(63, 62, 62);
+}
+
+.crud-container input {
+    font-size: 18px;
+    padding: 0.1rem;
+}
+
+.crud-container button {
+    margin-top: 15px;
+    font-size: 18px;
+    padding: 0.5rem;
+    background-color: crimson;
+    color: white;
+    border: none;
+
+}
+
+.crud-container button:hover {
+    opacity: 0.9;
+    cursor: pointer;
+}
+
+.remove {
+    color: red;
+    cursor: pointer;
+}
